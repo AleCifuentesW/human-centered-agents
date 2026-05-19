@@ -1,25 +1,33 @@
 # Human-Centered Agents (Español)
 
 ## Qué es
+
 Human-Centered Agents es una guía open-source para aprender prompts y diseñar agentes de IA de forma clara, útil y humana.
 
 ## Para quién es
+
 - Personas no técnicas que quieren usar IA sin sentirse perdidas.
 - Equipos que quieren respuestas más claras y menos ruido.
 - Quienes diseñan experiencias conversacionales con foco humano.
 
 ## Qué problema intenta resolver
+
 Mucho contenido sobre IA abruma: jerga innecesaria, pasos eternos y promesas exageradas.
+
 Este repo propone lo contrario: claridad, estructura y apoyo concreto, sin humo.
 
 ## Separación de contenido
+
 ### Guías para personas
+
 Explican conceptos en lenguaje simple, cercano y pedagógico.
 
 ### Archivos de agentes (para IA)
+
 Definen instrucciones precisas y reutilizables: propósito, flujo de trabajo, límites, formato y criterios de calidad.
 
 ## Cómo navegar este repo
+
 - [Guías en español](guides/es)
 - [Agentes en español](agents/es)
 - [Sección de emprendimiento (startup) (ES)](agents/es/startup)
@@ -37,7 +45,6 @@ También puedes revisar una guía visual complementaria creada para explicar Hum
 
 Este PDF es un material de apoyo visual. Las guías principales del repositorio siguen estando en Markdown para que sean fáciles de leer, editar y mejorar.
 
-
 ## Agentes de startup
 
 | Agente | Cuándo usarlo |
@@ -50,5 +57,7 @@ Este PDF es un material de apoyo visual. Las guías principales del repositorio 
 | [Agente Pitch](agents/es/startup/pitch.md) | Cuando necesitas presentar tu idea para fondos, concursos, aliados o inversión. |
 
 ## Estado del proyecto
+
 Versión inicial (Work in Progress).
+
 La base está lista y se irá mejorando en iteraciones cortas.

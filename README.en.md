@@ -1,25 +1,33 @@
 # Human-Centered Agents (English)
 
 ## What this is
+
 Human-Centered Agents is an open-source guide to learn prompting and design AI agents in a clear, useful, and human-centered way.
 
 ## Who this is for
+
 - Non-technical people who want to use AI without feeling lost.
 - Teams that want clearer outputs with less noise.
 - People designing conversational experiences with a human focus.
 
 ## What problem it solves
+
 A lot of AI content creates overwhelm: unnecessary jargon, endless checklists, and inflated claims.
+
 This repository does the opposite: clarity, structure, and practical support without overload.
 
 ## Content split
+
 ### Human guides
+
 Explain concepts in simple, friendly, educational language.
 
 ### Agent files (for AI)
+
 Define precise, reusable instructions: purpose, workflow, boundaries, response format, and quality criteria.
 
 ## How to navigate this repo
+
 - [Spanish guides](guides/es)
 - [Spanish agents](agents/es)
 - [Spanish startup section](agents/es/startup)
@@ -31,12 +39,11 @@ Define precise, reusable instructions: purpose, workflow, boundaries, response f
 
 ## Featured visual resource
 
-You can also review a complementary visual guide created to explain Human-Centered AI, Cognitive UX, and anti-overwhelm design in a simple and friendly way:
+You can also explore a complementary visual guide created to explain Human-Centered AI, Cognitive UX, and anti-overwhelm design in a simple and friendly way:
 
 [Mindful AI Design](resources/en/pdf/Mindful_AI_Design.pdf)
 
-This PDF is a visual support resource. The repository's main guides remain in Markdown so they are easy to read, edit, and improve.
-
+This PDF is a visual support resource. The main guides in this repository remain in Markdown so they are easier to read, edit, translate, and improve.
 
 ## Startup agents
 
@@ -50,5 +57,7 @@ This PDF is a visual support resource. The repository's main guides remain in Ma
 | [Pitch Agent](agents/en/startup/pitch.md) | When you need to present your idea for grants, competitions, partners, or investment. |
 
 ## Project status
+
 Initial version (Work in Progress).
+
 The foundation is ready and will improve through short iterations.
