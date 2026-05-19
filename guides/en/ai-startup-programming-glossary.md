@@ -10,6 +10,12 @@ Entry format:
 
 ## AI and prompting
 
+### AI
+- English meaning: Artificial Intelligence
+- Spanish equivalent: inteligencia artificial
+- Plain explanation: technology that can analyze information and generate useful responses or actions.
+- Example: "I use AI to organize ideas and define my next step."
+
 ### Prompt
 - English meaning: Prompt
 - Spanish equivalent: instruccion o pedido
@@ -121,6 +127,48 @@ Entry format:
 - Spanish equivalent: solicitud de cambios
 - Plain explanation: a proposed code change for team review.
 - Example: "I opened a PR with the fix and requested feedback."
+
+### Overselling
+- English meaning: Overselling
+- Spanish equivalent: sobreventa
+- Plain explanation: promising more than a product or AI system can realistically deliver.
+- Example: "Saying your MVP will solve everything on day one is overselling."
+
+### Oops Loop
+- English meaning: Oops Loop
+- Spanish equivalent: ciclo de errores repetidos
+- Plain explanation: repeating the same mistakes because no clear review-and-adjust step happens.
+- Example: "Launching and relaunching without clear learning can create an oops loop."
+
+### Feedback
+- English meaning: Feedback
+- Spanish equivalent: retroalimentacion
+- Plain explanation: comments or signals that help improve an idea, product, or response.
+- Example: "Feedback from 5 users changed our value proposition."
+
+### Vibe Check
+- English meaning: Vibe Check
+- Spanish equivalent: chequeo rapido de sensacion
+- Plain explanation: a quick check to see whether something feels clear, coherent, and useful before moving on.
+- Example: "Let's do a vibe check on the pitch before sending it."
+
+### Markdown
+- English meaning: Markdown
+- Spanish equivalent: formato de marcado ligero
+- Plain explanation: a lightweight format to structure text with headings, lists, links, and code.
+- Example: "This README is written in Markdown."
+
+### GitHub
+- English meaning: GitHub
+- Spanish equivalent: plataforma de colaboracion con Git
+- Plain explanation: a platform to host repositories, collaborate on code, and review changes.
+- Example: "We moved the project to GitHub to collaborate as a team."
+
+### Resources
+- English meaning: Resources
+- Spanish equivalent: recursos
+- Plain explanation: support materials such as guides, templates, links, datasets, or tools.
+- Example: "Let's start with three key resources to learn without overload."
 
 ## Usage note
 This glossary is an initial version and will grow as the project evolves.

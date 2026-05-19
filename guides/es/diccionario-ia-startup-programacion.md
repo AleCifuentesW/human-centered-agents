@@ -10,6 +10,12 @@ Formato por entrada:
 
 ## IA y prompts
 
+### IA
+- Inglés: Artificial Intelligence
+- Equivalencia en español: inteligencia artificial
+- En simple: tecnología que puede analizar información y generar respuestas o acciones útiles.
+- Ejemplo: "Uso IA para ordenar ideas y definir mi siguiente paso."
+
 ### Prompt
 - Inglés: Prompt
 - Equivalencia en español: instrucción o pedido
@@ -121,6 +127,48 @@ Formato por entrada:
 - Equivalencia en español: solicitud de cambios
 - En simple: propuesta de cambio en código para que el equipo la revise.
 - Ejemplo: "Abrí un PR con el fix y pedí feedback".
+
+### Overselling
+- Inglés: Overselling
+- Equivalencia en español: sobreventa
+- En simple: prometer más de lo que el producto o la IA realmente puede cumplir.
+- Ejemplo: "Decir que tu MVP resolverá todo desde el día uno es overselling".
+
+### Oops Loop
+- Inglés: Oops Loop
+- Equivalencia en español: ciclo de errores repetidos
+- En simple: patrón donde se repite el mismo error porque no se detiene para revisar y ajustar.
+- Ejemplo: "Lanzar, fallar y relanzar sin aprendizaje claro puede generar un oops loop".
+
+### Feedback
+- Inglés: Feedback
+- Equivalencia en español: retroalimentación
+- En simple: comentarios o señales que te ayudan a mejorar una idea, producto o respuesta.
+- Ejemplo: "El feedback de 5 usuarios cambió nuestra propuesta de valor".
+
+### Vibe Check
+- Inglés: Vibe Check
+- Equivalencia en español: chequeo rápido de sensación
+- En simple: revisión breve para validar si algo se siente claro, coherente y útil antes de seguir.
+- Ejemplo: "Hagamos un vibe check del pitch antes de enviarlo".
+
+### Markdown
+- Inglés: Markdown
+- Equivalencia en español: formato de marcado ligero
+- En simple: forma simple de dar estructura a texto con títulos, listas, enlaces y código.
+- Ejemplo: "Este README está escrito en Markdown".
+
+### GitHub
+- Inglés: GitHub
+- Equivalencia en español: plataforma de colaboración con Git
+- En simple: plataforma para alojar repositorios, colaborar en código y revisar cambios.
+- Ejemplo: "Subimos el proyecto a GitHub para trabajar en equipo".
+
+### Resources
+- Inglés: Resources
+- Equivalencia en español: recursos
+- En simple: materiales de apoyo como guías, plantillas, enlaces, datasets o herramientas.
+- Ejemplo: "Partamos con tres resources clave para aprender sin saturarte".
 
 ## Nota de uso
 Este diccionario está en versión inicial y se irá ampliando con nuevos términos a medida que avance el proyecto.

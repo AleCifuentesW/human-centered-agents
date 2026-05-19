@@ -29,6 +29,15 @@ Define precise, reusable instructions: purpose, workflow, boundaries, response f
 - [Spanish examples](examples/es)
 - [English examples](examples/en)
 
+## Recurso visual destacado
+
+También puedes revisar una guía visual complementaria creada para explicar Human-Centered AI, Cognitive UX y diseño anti-saturación de forma simple y amable:
+
+[Mindful AI Design](resources/en/pdf/Mindful_AI_Design.pdf)
+
+Este PDF es un material de apoyo visual. Las guías principales del repositorio siguen estando en Markdown para que sean fáciles de leer, editar y mejorar.
+
+
 ## Startup agents
 
 | Agent | When to use it |
