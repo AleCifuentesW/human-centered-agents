@@ -29,6 +29,15 @@ Definen instrucciones precisas y reutilizables: propósito, flujo de trabajo, l�
 - [Sección de emprendimiento (startup) (EN)](agents/en/startup)
 - [Examples in English](examples/en)
 
+## Recurso visual destacado
+
+También puedes revisar una guía visual complementaria creada para explicar Human-Centered AI, Cognitive UX y diseño anti-saturación de forma simple y amable:
+
+[Diseño de IA consciente](resources/es/pdf/Diseño de IA consciente.pdf)
+
+Este PDF es un material de apoyo visual. Las guías principales del repositorio siguen estando en Markdown para que sean fáciles de leer, editar y mejorar.
+
+
 ## Agentes de startup
 
 | Agente | Cuándo usarlo |
