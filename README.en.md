@@ -29,13 +29,13 @@ Define precise, reusable instructions: purpose, workflow, boundaries, response f
 - [Spanish examples](examples/es)
 - [English examples](examples/en)
 
-## Recurso visual destacado
+## Featured visual resource
 
-También puedes revisar una guía visual complementaria creada para explicar Human-Centered AI, Cognitive UX y diseño anti-saturación de forma simple y amable:
+You can also review a complementary visual guide created to explain Human-Centered AI, Cognitive UX, and anti-overwhelm design in a simple and friendly way:
 
 [Mindful AI Design](resources/en/pdf/Mindful_AI_Design.pdf)
 
-Este PDF es un material de apoyo visual. Las guías principales del repositorio siguen estando en Markdown para que sean fáciles de leer, editar y mejorar.
+This PDF is a visual support resource. The repository's main guides remain in Markdown so they are easy to read, edit, and improve.
 
 
 ## Startup agents

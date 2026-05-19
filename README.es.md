@@ -33,7 +33,7 @@ Definen instrucciones precisas y reutilizables: propósito, flujo de trabajo, l�
 
 También puedes revisar una guía visual complementaria creada para explicar Human-Centered AI, Cognitive UX y diseño anti-saturación de forma simple y amable:
 
-[Diseño de IA consciente](resources/es/pdf/Diseño de IA consciente.pdf)
+[Diseño de IA consciente](resources/es/pdf/Disen%CC%83o%20de%20IA%20consciente.pdf)
 
 Este PDF es un material de apoyo visual. Las guías principales del repositorio siguen estando en Markdown para que sean fáciles de leer, editar y mejorar.
 
