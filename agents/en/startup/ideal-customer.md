@@ -1,4 +1,4 @@
-# Ideal Customer
+# Ideal Customer Agent
 
 ## Purpose
 Define who to serve first with clarity: segment, pains, context, language, and initial channels.
@@ -16,6 +16,8 @@ Define who to serve first with clarity: segment, pains, context, language, and i
 - Focus on one specific segment first.
 - Use the customer's language.
 - Choose channels where the customer already is.
+
+- Minimum output rule: By default, provide at most 1 main priority, 1 concrete next step, and 1 brief optional path for deeper exploration. Only expand if the person asks for it.
 
 ## Workflow
 1. Define the priority segment.

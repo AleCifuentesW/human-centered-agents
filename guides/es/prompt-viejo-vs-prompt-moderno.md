@@ -10,7 +10,7 @@ Eso a veces funciona, pero suele quedar genérico.
 Suele funcionar mejor definir:
 - contexto
 - objetivo
-- flujo de trabajo (workflow)
+- flujo de trabajo
 - límites
 - formato de respuesta
 

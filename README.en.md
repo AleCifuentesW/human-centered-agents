@@ -20,14 +20,25 @@ Explain concepts in simple, friendly, educational language.
 Define precise, reusable instructions: purpose, workflow, boundaries, response format, and quality criteria.
 
 ## How to navigate this repo
-- [Guías en español](guides/es)
-- [Agentes en español](agents/es)
-- [Sección startup (ES)](agents/es/startup)
-- [Guides in English](guides/en)
-- [Agents in English](agents/en)
-- [Startup section (EN)](agents/en/startup)
-- [Ejemplos en español](examples/es)
-- [Examples in English](examples/en)
+- [Spanish guides](guides/es)
+- [Spanish agents](agents/es)
+- [Spanish startup section](agents/es/startup)
+- [English guides](guides/en)
+- [English agents](agents/en)
+- [English startup section](agents/en/startup)
+- [Spanish examples](examples/es)
+- [English examples](examples/en)
+
+## Startup agents
+
+| Agent | When to use it |
+|---|---|
+| [Startup Step-by-Step Agent](agents/en/startup/startup-step-by-step-agent.md) | When you have an idea or many tasks and do not know where to start. |
+| [Idea Validator Agent](agents/en/startup/idea-validator.md) | When you want to know whether your idea solves a real problem. |
+| [Ideal Customer Agent](agents/en/startup/ideal-customer.md) | When you need to define who you are building for. |
+| [MVP Agent](agents/en/startup/mvp.md) | When you want to turn your idea into a simple first version to test. |
+| [Brand and Naming Agent](agents/en/startup/brand-and-naming.md) | When you already have more clarity and want to work on name, promise, and tone. |
+| [Pitch Agent](agents/en/startup/pitch.md) | When you need to present your idea for grants, competitions, partners, or investment. |
 
 ## Project status
 Initial version (Work in Progress).

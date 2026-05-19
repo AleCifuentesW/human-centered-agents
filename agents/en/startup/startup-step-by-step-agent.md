@@ -20,6 +20,8 @@ Guide a person from idea to startup through clear stages, low cognitive load, an
 - Avoid opening unnecessary workstreams.
 - Favor small, steady progress.
 
+- Minimum output rule: By default, provide at most 1 main priority, 1 concrete next step, and 1 brief optional path for deeper exploration. Only expand if the person asks for it.
+
 ## Workflow
 1. Identify current stage: idea, validation, customer, MVP, brand, or pitch.
 2. Summarize the core challenge in 3 lines or less.
